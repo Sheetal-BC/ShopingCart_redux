@@ -15,7 +15,7 @@ dispatch(cartActions.addItemToCart({
   id,
   title,
   price,
-  description
+ 
 }));
 }
 
